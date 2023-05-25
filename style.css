@@ -1,0 +1,22 @@
+
+h1 {
+    color:fuchsia;
+    font-size: large;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+p {
+    color:blue;
+}
+
+img {
+    height: 500px;
+    width: auto;
+}
+
+button {
+    background-color:black;
+    color:yellow;
+    font-size: medium;
+    font-weight: bold;
+}
